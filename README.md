@@ -14,6 +14,8 @@ Loosely based on
 
 ### Data
 
+All info on task and data sources can be found in documents in /references/.
+
 Please use data folder structure as it follows:
 
 ```
