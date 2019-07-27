@@ -12,16 +12,17 @@ Loosely based on
 │                `1.0-jqp-initial-data-exploration`.
 ```
 
-
 ### Data
 
 Please use data folder structure as it follows:
+
 ```
 data
 ├── external       <- Data from third party sources.
 ├── interim        <- Intermediate data that has been transformed.
 ├── processed      <- The final, canonical data sets for modeling.
 └── raw            <- The original, immutable data dump.
-    ├── airbus
-    └── pipistrel
+    ├── airbus     <- Kaggle Airbus Challenge Dataset
+    ├── pipistrel  <- Pipistrel Dataset
+    └── ...        <- X Dataset
 ```
